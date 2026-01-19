@@ -1,0 +1,5 @@
+{
+  "name": "Online PR Review",
+  "description": "An AI-powered GitHub and Azure DevOps Pull Request reviewer. Enter a PR URL, and the AI analyzes the diffs, identifies issues, and generates a structured review that you can submit directly.",
+  "requestFramePermissions": []
+}
